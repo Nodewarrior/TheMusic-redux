@@ -1,4 +1,4 @@
-# favesound-redux
+# TheMusic-redux
 
 The SoundCloud Client in React + Redux made with passion -> [Demo]
 
